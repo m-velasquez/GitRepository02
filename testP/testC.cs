@@ -25,12 +25,7 @@ namespace testN {
             //outlookTodayMicrosoftOutlook.Control("[*]").GetPropertyList()[1];
 
             Console.WriteLine(outlookTodayMicrosoftOutlook.Control("@windowClassName='NetUIHWND'"));
-            //Console.WriteLine(outlookTodayMicrosoftOutlook.GetPropertyList()[8]);
-            //Console.WriteLine(outlookTodayMicrosoftOutlook.GetPropertyList()[9]);
-
-            //Window inboxMicrosoftOutlook = _desktop.Window("@caption='Inbox - Microsoft Outlook'");
-			//inboxMicrosoftOutlook.Control("[@windowClassName='NetUIHWND'][1]").Click(MouseButton.Left, new Point(78, 217), ModifierKeys.None);
-            //Console.ReadKey();
+            
 		}
 
 	}
