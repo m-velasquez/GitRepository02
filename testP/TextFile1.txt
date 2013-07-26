@@ -1,5 +1,5 @@
-﻿añadido nuevamente las lineas al principio y al final
-
+﻿//añadido nuevamente las lineas al principio y al final
+import.**
 ﻿hello
 
 //this frist method and create new main
@@ -11,7 +11,7 @@ hello Juan
 
 //add in this section new function about sum
  public void suma(){
-	//........
+	//........ds dfsdfs
  }
 
  añadido nuevamente las lineas al principio y al final
