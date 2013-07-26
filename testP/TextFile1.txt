@@ -1,6 +1,4 @@
-﻿﻿hello marco
-que tal Juan, ya lo modifique
-nueva linea
+﻿añadido nuevamente las lineas al principio y al final
 
 ﻿hello
 
@@ -16,3 +14,4 @@ hello Juan
 	//........
  }
 
+ añadido nuevamente las lineas al principio y al final
