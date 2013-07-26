@@ -1,3 +1,13 @@
 ﻿hello
-hello marco
+
+//this frist method and create new main
+public static void main(String arg[]){
+	System.out.printLn(" hello marco");
+}
+
 hello Juan
+
+//add in this section new function about sum
+ public void suma(){
+	//........
+ }
