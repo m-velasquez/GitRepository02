@@ -14,7 +14,7 @@ public static void main(String arg[]){
 hello Juan
 
 //add in this section new function about sum
- public String suma(){
+ public String resta(){
 	//........ds dfsdfs
  }
 
