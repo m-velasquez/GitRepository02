@@ -18,11 +18,14 @@ hello Juan
 	//........ds dfsdfs
  }
 
+<<<<<<< HEAD
  //Adding new function
  public String Multiplicacion(){
  //TODO
  }
 
+=======
+>>>>>>> removed function: multiplicacion
  public String division(){
 	//........ds dfsdfs
  }
@@ -36,4 +39,8 @@ hello Juan
  añadiendo mas lineas...
 
  La mas ultima....
+<<<<<<< HEAD
  reciente 02
+=======
+ reciente 03
+>>>>>>> removed function: multiplicacion
