@@ -4,7 +4,6 @@ import.**
 ﻿añadido nuevamente las lineas al principio y al final
 añadido nuevamente las lineas al principio y al final
 
-test
 ﻿hello
 
 //this frist method and create new main
@@ -13,13 +12,13 @@ public static void main(String arg[]){
 }
 123
 hello Juan
-test
+
 //add in this section new function about sum
- public void suma(){
+ public String suma(){
 	//........ds dfsdfs
  }
 
- test
+
   nuevamente las lineas al principio y al final
  añadido nuevamente las lineas al principio y al final
 
