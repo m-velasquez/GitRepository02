@@ -18,6 +18,10 @@ hello Juan
 	//........ds dfsdfs
  }
 
+ //Adding new function
+ public String division(){
+	//........ds dfsdfs
+ }
 
   nuevamente las lineas al principio y al final
  añadido nuevamente las lineas al principio y al final
