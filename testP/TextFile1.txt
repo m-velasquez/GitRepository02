@@ -19,11 +19,11 @@ hello Juan
  }
 
  //Adding new function
-<<<<<<< HEAD
  public String Multiplicacion(){
-=======
+ //TODO
+ }
+
  public String division(){
->>>>>>> 2f2960face12b28366f3104ce092cd5139cece7a
 	//........ds dfsdfs
  }
 
@@ -36,4 +36,4 @@ hello Juan
  añadiendo mas lineas...
 
  La mas ultima....
- reciente 01
+ reciente 02
