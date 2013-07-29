@@ -27,8 +27,5 @@ test
  añadido nuevamente las lineas al principio y al final
  añadido nuevamente las lineas al principio y al final
  añadiendo mas lineas...
-<<<<<<< HEAD
- La mas ultima....
-=======
 
->>>>>>> 71f2e8d6feabe2f505e567fc240994cbe3ea607f
+ La mas ultima....
