@@ -19,7 +19,11 @@ hello Juan
  }
 
  //Adding new function
+<<<<<<< HEAD
  public String Multiplicacion(){
+=======
+ public String division(){
+>>>>>>> 2f2960face12b28366f3104ce092cd5139cece7a
 	//........ds dfsdfs
  }
 
