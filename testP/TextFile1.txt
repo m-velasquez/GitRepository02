@@ -18,6 +18,10 @@ hello Juan
 	//........ds dfsdfs
  }
 
+ //Adding new function
+ public String Multiplicacion(){
+	//........ds dfsdfs
+ }
 
   nuevamente las lineas al principio y al final
  añadido nuevamente las lineas al principio y al final
@@ -28,3 +32,4 @@ hello Juan
  añadiendo mas lineas...
 
  La mas ultima....
+ reciente 01
